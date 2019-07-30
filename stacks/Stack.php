@@ -1,5 +1,4 @@
 <?php
-namespace stacks;
 
 class Stack{
     private $list;
@@ -64,7 +63,7 @@ class Stack{
     public function display(){
         if(!$this->is_empty()){
             foreach ($this->list as $item){
-                print_r($item);
+                print_r($item."\n");
             }
         }
         return null;
