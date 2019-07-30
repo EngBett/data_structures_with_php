@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="401f65cd-e8c0-4af2-acf9-8a3f5fb6b590" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/stacks/parenthesis.php" beforeDir="false" afterPath="$PROJECT_DIR$/stacks/parenthesis.php" afterDir="false" />
-    </list>
+    <list default="true" id="401f65cd-e8c0-4af2-acf9-8a3f5fb6b590" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +20,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stacks/integer_to_binary.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stacks/parenthesis.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
+            <state relative-caret-position="247">
               <caret line="52" column="15" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
             </state>
           </provider>
@@ -42,6 +49,7 @@
         <option value="$PROJECT_DIR$/stacks/Stack.php" />
         <option value="$PROJECT_DIR$/stacks/stackTest.php" />
         <option value="$PROJECT_DIR$/stacks/parenthesis.php" />
+        <option value="$PROJECT_DIR$/stacks/integer_to_binary.php" />
       </list>
     </option>
   </component>
@@ -107,8 +115,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.parenthesis.php">
+  <component name="RunManager" selected="PHP Script.integer_to_binary.php">
     <configuration name="Stack.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/stacks/Stack.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="integer_to_binary.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/stacks/integer_to_binary.php">
       <method v="2" />
     </configuration>
     <configuration name="parenthesis.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/stacks/parenthesis.php">
@@ -119,6 +130,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.integer_to_binary.php" />
         <item itemvalue="PHP Script.parenthesis.php" />
         <item itemvalue="PHP Script.stackTest.php" />
         <item itemvalue="PHP Script.Stack.php" />
@@ -135,12 +147,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564481548679</updated>
-      <workItem from="1564481550455" duration="7527000" />
+      <workItem from="1564481550455" duration="8657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7527000" />
+    <option name="totallyTimeSpent" value="8657000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -178,13 +190,6 @@
     <entry file="file://$PROJECT_DIR$/stacks/Stc.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/stacks/Stack.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="65" column="33" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stacks/stackTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -194,8 +199,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stacks/parenthesis.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
+        <state relative-caret-position="247">
           <caret line="52" column="15" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stacks/Stack.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="65" column="33" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stacks/integer_to_binary.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
         </state>
       </provider>
     </entry>
