@@ -46,7 +46,7 @@ class Stack{
     }
 
     /**
-     * see the head of the stack
+     * See the head of the stack
      * @return mixed|null
      */
     public function peek(){
@@ -57,6 +57,10 @@ class Stack{
         return null;
     }
 
+    /**
+     * Display all the values of the stack list
+     * @return null
+     */
     public function display(){
         if(!$this->is_empty()){
             foreach ($this->list as $item){
