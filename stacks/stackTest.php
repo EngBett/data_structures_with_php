@@ -8,4 +8,7 @@ $stack->push(3);
 $stack->push(4);
 $stack->push(5);
 
-$stack->display();
+print_r($stack->pop()."\n");
+//$stack->display();
+print_r($stack->peek()."\n");
+print_r($stack->size()."\n");
