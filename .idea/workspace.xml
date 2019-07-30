@@ -19,11 +19,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stacks/integer_to_binary.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+            <state relative-caret-position="170">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stacks/reverse_string.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -50,6 +59,7 @@
         <option value="$PROJECT_DIR$/stacks/stackTest.php" />
         <option value="$PROJECT_DIR$/stacks/parenthesis.php" />
         <option value="$PROJECT_DIR$/stacks/integer_to_binary.php" />
+        <option value="$PROJECT_DIR$/stacks/reverse_string.php" />
       </list>
     </option>
   </component>
@@ -115,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.integer_to_binary.php">
+  <component name="RunManager" selected="PHP Script.reverse_string.php">
     <configuration name="Stack.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/stacks/Stack.php">
       <method v="2" />
     </configuration>
@@ -125,11 +135,15 @@
     <configuration name="parenthesis.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/stacks/parenthesis.php">
       <method v="2" />
     </configuration>
+    <configuration name="reverse_string.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/stacks/reverse_string.php">
+      <method v="2" />
+    </configuration>
     <configuration name="stackTest.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/stacks/stackTest.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.reverse_string.php" />
         <item itemvalue="PHP Script.integer_to_binary.php" />
         <item itemvalue="PHP Script.parenthesis.php" />
         <item itemvalue="PHP Script.stackTest.php" />
@@ -147,12 +161,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564481548679</updated>
-      <workItem from="1564481550455" duration="8657000" />
+      <workItem from="1564481550455" duration="9122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8657000" />
+    <option name="totallyTimeSpent" value="9122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -213,8 +227,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stacks/integer_to_binary.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        <state relative-caret-position="170">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stacks/reverse_string.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
