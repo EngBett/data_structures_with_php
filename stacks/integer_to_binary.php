@@ -17,7 +17,7 @@ function get_binary($int){
     return $str;
 }
 
-//test with a
+//test with an integer
 print_r(get_binary(142));
 
 //new lines
