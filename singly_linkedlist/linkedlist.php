@@ -47,6 +47,16 @@ class LinkedList{
         }
     }
 
+    public function prepend($data){
+        $node = new Node($data);
+        if($this->is_empty()){
+            $this->head = $node;
+        }else{
+            $node->set_next($this->head);
+            $this->head = $node;
+        }
+    }
+
     public function display(){
         $curr = $this->head;
         while ($curr != null){
