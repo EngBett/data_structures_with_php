@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="401f65cd-e8c0-4af2-acf9-8a3f5fb6b590" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/singly_linkedlist/linkedlist.php" beforeDir="false" afterPath="$PROJECT_DIR$/singly_linkedlist/linkedlist.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singly_linkedlist/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/singly_linkedlist/test.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/singly_linkedlist/linkedlist.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="171" column="29" selection-start-line="171" selection-start-column="29" selection-end-line="171" selection-end-column="29" />
+            <state relative-caret-position="272">
+              <caret line="163" column="35" selection-start-line="163" selection-start-column="35" selection-end-line="163" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -144,12 +143,12 @@
       <option name="presentableId" value="Default" />
       <updated>1564481548679</updated>
       <workItem from="1564481550455" duration="13922000" />
-      <workItem from="1564553985990" duration="4039000" />
+      <workItem from="1564553985990" duration="4218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17961000" />
+    <option name="totallyTimeSpent" value="18140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -160,7 +159,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -229,8 +228,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/singly_linkedlist/linkedlist.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="171" column="29" selection-start-line="171" selection-start-column="29" selection-end-line="171" selection-end-column="29" />
+        <state relative-caret-position="272">
+          <caret line="163" column="35" selection-start-line="163" selection-start-column="35" selection-end-line="163" selection-end-column="35" />
         </state>
       </provider>
     </entry>

@@ -39,6 +39,9 @@ class Node{
     }
 }
 
+/**
+ * Class LinkedList
+ */
 class LinkedList{
     private $head,$size;
 
@@ -160,6 +163,11 @@ class LinkedList{
 
     }
 
+    /**
+     * Delete node at a given index
+     * @param $index
+     * @return
+     */
     public function remove($index){
         if($this->is_empty()){
             return null;
